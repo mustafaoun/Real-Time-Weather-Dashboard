@@ -4,7 +4,7 @@ This project is a dynamic and interactive **Power BI dashboard** designed to pro
 
 ---
 
-## 📊 Features
+## Features
 
 - **Live Data:** Fetches real-time weather and AQI data from a public API.  
 - **Interactive Controls:** Users can select different cities to view data, and interactive charts allow for deep dives into specific metrics.  
@@ -15,7 +15,7 @@ This project is a dynamic and interactive **Power BI dashboard** designed to pro
 
 ---
 
-## 🛠️ Technologies & Skills
+##  Technologies & Skills
 
 - **Power BI:** Used for the entire dashboard creation, from data sourcing to visualization.  
 - **Power Query:** Leveraged extensively for connecting to the API, parsing JSON, and transforming raw data.  
@@ -25,7 +25,7 @@ This project is a dynamic and interactive **Power BI dashboard** designed to pro
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### Data Sourcing
 The dashboard connects to **WeatherAPI.com** via its REST API, which provides weather and AQI data for various locations in JSON format.
@@ -45,7 +45,7 @@ Interactive visualizations like slicers, cards, gauges, and line charts are used
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To replicate this project, you will need **Power BI Desktop**.
 
@@ -57,7 +57,7 @@ To replicate this project, you will need **Power BI Desktop**.
 
 ---
 
-## ⏭️ Future Enhancements
+##  Future Enhancements
 
 - **Historical Data:** Implement a data collection system (e.g., using Python scripts and a database) to store historical data and enable trend analysis.  
 - **Alerting System:** Add an automated email or notification system to alert users when AQI levels in a specific city exceed a certain threshold.  
@@ -65,8 +65,6 @@ To replicate this project, you will need **Power BI Desktop**.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **[Apache License](https://www.apache.org/licenses/LICENSE-2.0)**.
-
-If you want, I can also make a **slimmer, GitHub-ready version** with badges, a table of contents, and direct links for video and API references to make it look more professional. Do you want me to do that?
