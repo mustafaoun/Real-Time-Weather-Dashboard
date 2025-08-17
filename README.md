@@ -54,5 +54,3 @@ To replicate this project, you will need **Power BI Desktop**.
 ## 📄 License
 
 This project is licensed under the **Apache License**.
-
-I can also create a **more visually appealing GitHub README style** version with badges, tables, and sections if you want it to look professional for your repository. Do you want me to do that?
